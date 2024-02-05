@@ -45,8 +45,8 @@ function generateMessage(noCount) {
     "No",
     "Are you sure?",
     "Pookie please",
-    "Don't do this to me :(",
-    "You're breaking my heart",
+    "BUBBY HOW COULD YOu :(",
+    "Chigga is sad",
     "I'm gonna cry...",
   ];
 
